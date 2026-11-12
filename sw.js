@@ -1,4 +1,4 @@
-const CACHE = "linea-vida-v1";
+const CACHE = "linea-vida-v2";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png",
   "bricolage-grotesque-latin-500-normal.woff2", "bricolage-grotesque-latin-700-normal.woff2",
   "atkinson-hyperlegible-latin-400-normal.woff2", "atkinson-hyperlegible-latin-700-normal.woff2"];

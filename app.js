@@ -39,7 +39,7 @@ var T = {
   needAge:"Falta la edad: escribe un número.", needTitle:"Falta decir qué pasó, aunque sea en pocas palabras.", needVal:"Elige cómo lo viviste.", needImp:"Falta el impacto: toca un número del 1 al 10.",
   eTitle:"Enviar a tu psiquiatra", eName:"Tu nombre (opcional)", eNamePh:"Para que sepa de quién es",
   eHow:"Envía tu línea de vida a la consulta cuando quieras. Puedes enviarla varias veces: cada vez va la línea completa.",
-  eCopy:"Copiar resumen", eMail:"Enviar por correo", eShare:"Compartir…", eDl:"Descargar archivo", eConsent:"Al enviarlo, tu línea sale de tu móvil hacia la consulta. Hazlo solo si te parece bien.", eLong:"El resumen ya está copiado: pégalo en el cuerpo del correo.", eSub:"Línea de vida", eSend:"Enviar a la consulta", eMine:"Enviar desde mi correo", eSending:"Enviando…", eSent:"Enviado. Tu psiquiatra lo recibirá.", eFail:"No se pudo enviar directamente. Se abrirá tu correo.", eLast:"Último envío:", eContact:"Teléfono o correo (opcional)", eContactPh:"Para que puedan contestarte", pContact:"Contacto", rConsent:"Consentimiento (aviso de privacidad)", privLink:"Aviso de privacidad", privTitle:"Aviso de privacidad", privShort:"Responsable: Dr. Jordi Risco. Uso: tu valoración clínica. Al enviar das tu consentimiento explícito.", consent:"He leído el aviso de privacidad y consiento enviar mis datos de salud a la consulta.", shared:"Si compartes el móvil, otra persona podría ver tu línea.", copied:"Copiado", copyFail:"No se pudo copiar solo: selecciona el texto de abajo y cópialo.",
+  eCopy:"Copiar resumen", eMail:"Enviar por correo", eShare:"Compartir…", eDl:"Descargar archivo", eDlImg:"Descargar imagen", eImgPrev:"Así llegará tu línea a la consulta (con el detalle en texto debajo)", imgFoot:"Generado con la app «Mi línea de vida»", eConsent:"Al enviarlo, tu línea sale de tu móvil hacia la consulta. Hazlo solo si te parece bien.", eLong:"El resumen ya está copiado: pégalo en el cuerpo del correo.", eSub:"Línea de vida", eSend:"Enviar a la consulta", eMine:"Enviar desde mi correo", eSending:"Enviando…", eSent:"Enviado. Tu psiquiatra lo recibirá.", eFail:"No se pudo enviar directamente. Se abrirá tu correo.", eLast:"Último envío:", eContact:"Teléfono o correo (opcional)", eContactPh:"Para que puedan contestarte", pContact:"Contacto", rConsent:"Consentimiento (aviso de privacidad)", privLink:"Aviso de privacidad", privTitle:"Aviso de privacidad", privShort:"Responsable: Dr. Jordi Risco. Uso: tu valoración clínica. Al enviar das tu consentimiento explícito.", consent:"He leído el aviso de privacidad y consiento enviar mis datos de salud a la consulta.", shared:"Si compartes el móvil, otra persona podría ver tu línea.", copied:"Copiado", copyFail:"No se pudo copiar solo: selecciona el texto de abajo y cópialo.",
   eNone:"Todavía no tienes momentos que enviar.", ePrev:"Vista previa",
   eAddr:"Dirección:", eWarn:"Envíalo desde aquí o por correo, no por WhatsApp: son datos de salud.",
   wipe:"Borrar todo lo que he escrito", wipeAsk:"Se borrará todo de este dispositivo. No se puede deshacer.", wipeYes:"Sí, borrar todo", wiped:"Todo borrado",
@@ -80,7 +80,7 @@ var T = {
   needAge:"Falta l’edat: escriu un número.", needTitle:"Falta dir què va passar, encara que sigui en poques paraules.", needVal:"Tria com ho vas viure.", needImp:"Falta l’impacte: toca un número de l’1 al 10.",
   eTitle:"Enviar al teu psiquiatre", eName:"El teu nom (opcional)", eNamePh:"Perquè sàpiga de qui és",
   eHow:"Envia la teva línia de vida a la consulta quan vulguis. Pots enviar-la diverses vegades: cada cop va la línia completa.",
-  eCopy:"Copiar resum", eMail:"Enviar per correu", eShare:"Compartir…", eDl:"Descarregar arxiu", eConsent:"En enviar-la, la teva línia surt del teu mòbil cap a la consulta. Fes-ho només si et sembla bé.", eLong:"El resum ja està copiat: enganxa’l al cos del correu.", eSub:"Línia de vida", eSend:"Enviar a la consulta", eMine:"Enviar des del meu correu", eSending:"Enviant…", eSent:"Enviat. El teu psiquiatre ho rebrà.", eFail:"No s’ha pogut enviar directament. S’obrirà el teu correu.", eLast:"Últim enviament:", eContact:"Telèfon o correu (opcional)", eContactPh:"Perquè et puguin contestar", pContact:"Contacte", rConsent:"Consentiment (avís de privacitat)", privLink:"Avís de privacitat", privTitle:"Avís de privacitat", privShort:"Responsable: Dr. Jordi Risco. Ús: la teva valoració clínica. En enviar dones el teu consentiment explícit.", consent:"He llegit l’avís de privacitat i consento enviar les meves dades de salut a la consulta.", shared:"Si comparteixes el mòbil, una altra persona podria veure la teva línia.", copied:"Copiat", copyFail:"No s’ha pogut copiar sol: selecciona el text de sota i copia’l.",
+  eCopy:"Copiar resum", eMail:"Enviar per correu", eShare:"Compartir…", eDl:"Descarregar arxiu", eDlImg:"Descarregar imatge", eImgPrev:"Així arribarà la teva línia a la consulta (amb el detall en text a sota)", imgFoot:"Generat amb l’app «La meva línia de vida»", eConsent:"En enviar-la, la teva línia surt del teu mòbil cap a la consulta. Fes-ho només si et sembla bé.", eLong:"El resum ja està copiat: enganxa’l al cos del correu.", eSub:"Línia de vida", eSend:"Enviar a la consulta", eMine:"Enviar des del meu correu", eSending:"Enviant…", eSent:"Enviat. El teu psiquiatre ho rebrà.", eFail:"No s’ha pogut enviar directament. S’obrirà el teu correu.", eLast:"Últim enviament:", eContact:"Telèfon o correu (opcional)", eContactPh:"Perquè et puguin contestar", pContact:"Contacte", rConsent:"Consentiment (avís de privacitat)", privLink:"Avís de privacitat", privTitle:"Avís de privacitat", privShort:"Responsable: Dr. Jordi Risco. Ús: la teva valoració clínica. En enviar dones el teu consentiment explícit.", consent:"He llegit l’avís de privacitat i consento enviar les meves dades de salut a la consulta.", shared:"Si comparteixes el mòbil, una altra persona podria veure la teva línia.", copied:"Copiat", copyFail:"No s’ha pogut copiar sol: selecciona el text de sota i copia’l.",
   eNone:"Encara no tens moments per enviar.", ePrev:"Vista prèvia",
   eAddr:"Adreça:", eWarn:"Envia-ho des d’aquí o per correu, no per WhatsApp: són dades de salut.",
   wipe:"Esborrar tot el que he escrit", wipeAsk:"S’esborrarà tot d’aquest dispositiu. No es pot desfer.", wipeYes:"Sí, esborrar tot", wiped:"Tot esborrat",
@@ -235,6 +235,50 @@ function buildText(){
   });
   return L.join("\n").trim();
 }
+
+/* ---------- Imagen para el correo ---------- */
+function buildImage(){
+  var fonts=["700 40px 'Bricolage Grotesque'","400 24px 'Atkinson Hyperlegible'","700 24px 'Atkinson Hyperlegible'"];
+  return Promise.all(fonts.map(function(f){ return document.fonts?document.fonts.load(f):null; })).catch(function(){}).then(function(){
+    var es=sorted(), W=1400, P=60, HEAD=170, CH=560, ROW=46, n=es.length, rows=Math.ceil(n/2);
+    var H=HEAD+CH+40+rows*ROW+110;
+    var cv=document.createElement("canvas"); cv.width=W; cv.height=H; var c=cv.getContext("2d");
+    var COL={pos:"#3a8c82",neg:"#c0452c",mix:"#c98a14"}, INK="#14292b", MUT="#566b6c", LINE="#d3dedc", ACC="#0f5f63";
+    var DF="'Bricolage Grotesque',Trebuchet MS,sans-serif", BF="'Atkinson Hyperlegible',Arial,sans-serif";
+    c.fillStyle="#fff"; c.fillRect(0,0,W,H);
+    c.fillStyle=ACC; c.fillRect(0,0,W,12);
+    c.fillStyle=INK; c.font="700 58px "+DF; c.textBaseline="alphabetic"; c.fillText(t("rec"),P,92);
+    var sub=[]; if(mem.name&&mem.name.trim()) sub.push(mem.name.trim()); if(mem.curAge!=null) sub.push(t("pAge")+": "+mem.curAge); sub.push(new Intl.DateTimeFormat(t("locale"),{day:"numeric",month:"long",year:"numeric"}).format(new Date()));
+    c.fillStyle=MUT; c.font="400 30px "+BF; c.fillText(sub.join("  ·  "),P,140);
+    var L=P+60, R=W-P, T=HEAD+20, B=HEAD+CH-60;
+    var mx=mem.curAge||0; es.forEach(function(e){ if(e.age>mx) mx=e.age; }); mx=Math.max(mx+2,20);
+    function X(a){ return L+a/mx*(R-L); } function Y(v){ return T+(10-v)/20*(B-T); }
+    c.font="400 22px "+BF; c.textAlign="right";
+    [[10,"+10"],[5,"+5"],[0,"0"],[-5,"\u22125"],[-10,"\u221210"]].forEach(function(g){ c.strokeStyle=g[0]===0?MUT:LINE; c.lineWidth=g[0]===0?3:1.5; c.beginPath(); c.moveTo(L,Y(g[0])); c.lineTo(R,Y(g[0])); c.stroke(); c.fillStyle=MUT; c.fillText(g[1],L-12,Y(g[0])+8); });
+    c.textAlign="center"; var step=mx>50?10:5;
+    for(var a=0;a<=mx;a+=step){ c.fillStyle=MUT; c.fillText(String(a),X(a),B+40); }
+    c.textAlign="left"; c.fillStyle=MUT; c.font="400 22px "+BF; c.fillText("\u25B2 "+t("chartGood"),L+10,T+28); c.fillText("\u25BC "+t("chartHard"),L+10,B-14);
+    if(mem.curAge!=null){ c.strokeStyle=ACC; c.lineWidth=2.5; c.setLineDash([8,8]); c.beginPath(); c.moveTo(X(mem.curAge),T-6); c.lineTo(X(mem.curAge),B); c.stroke(); c.setLineDash([]); c.fillStyle=ACC; c.font="700 24px "+BF; c.textAlign="center"; c.fillText(t("chartToday"),X(mem.curAge),T-14); }
+    if(es.length>1){ c.strokeStyle=ACC; c.globalAlpha=.7; c.lineWidth=4; c.lineJoin="round"; c.beginPath(); es.forEach(function(e,i){ var x=X(e.age), y=Y(sval(e)); if(i) c.lineTo(x,y); else c.moveTo(x,y); }); c.stroke(); c.globalAlpha=1; }
+    c.textAlign="center"; c.textBaseline="middle";
+    es.forEach(function(e,i){ var x=X(e.age), y=Y(sval(e)); c.fillStyle=COL[e.valence]; c.beginPath(); c.arc(x,y,21,0,6.2832); c.fill(); c.lineWidth=4; c.strokeStyle="#fff"; c.stroke(); c.fillStyle="#fff"; c.font="700 22px "+BF; c.fillText(String(i+1),x,y+1); });
+    c.textBaseline="alphabetic";
+    var LY=HEAD+CH+10, colW=(W-2*P)/2;
+    c.strokeStyle=LINE; c.lineWidth=2; c.beginPath(); c.moveTo(P,LY); c.lineTo(W-P,LY); c.stroke();
+    es.forEach(function(e,i){
+      var col=i<rows?0:1, r=i<rows?i:i-rows, x0=P+col*colW, y0=LY+34+r*ROW;
+      c.fillStyle=COL[e.valence]; c.beginPath(); c.arc(x0+19,y0+6,19,0,6.2832); c.fill();
+      c.fillStyle="#fff"; c.font="700 20px "+BF; c.textAlign="center"; c.textBaseline="middle"; c.fillText(String(i+1),x0+19,y0+7); c.textBaseline="alphabetic";
+      c.textAlign="left"; var tail="  ("+sgn(e)+")", head=e.age+" "+t("years")+" \u00b7 ";
+      c.font="400 25px "+BF; var max=colW-70-c.measureText(tail).width, txt=head+e.title;
+      if(c.measureText(txt).width>max){ while(txt.length>3&&c.measureText(txt+"\u2026").width>max) txt=txt.slice(0,-1); txt=txt+"\u2026"; }
+      c.fillStyle=INK; c.fillText(txt,x0+48,y0+14); var w=c.measureText(txt).width; c.fillStyle=COL[e.valence]; c.font="700 25px "+BF; c.fillText(tail,x0+48+w,y0+14);
+    });
+    c.fillStyle=MUT; c.font="400 20px "+BF; c.textAlign="left"; c.fillText(t("imgFoot"),P,H-34);
+    return cv.toDataURL("image/png");
+  });
+}
+
 function renderExport(){
   var has=mem.events.length>0, txt=has?buildText():"";
   var h='<div class="sheet" role="dialog" aria-modal="true" aria-label="'+esc(t("eTitle"))+'"><div class="in">';
@@ -242,6 +286,7 @@ function renderExport(){
   if(!has){ h+='<p>'+esc(t("eNone"))+'</p>'; }
   else{
     h+='<p>'+esc(t("eHow"))+'</p><div class="warn">'+esc(t("eWarn"))+'</div>';
+    h+='<fieldset><legend>'+esc(t("eImgPrev"))+'</legend><img id="img-prev" alt="" style="width:100%;height:auto;border:1px solid var(--line);border-radius:12px;background:#fff;min-height:80px"></fieldset>';
     h+='<fieldset><legend><label for="f-name">'+esc(t("eName"))+'</label></legend><input type="text" id="f-name" data-f="name" placeholder="'+esc(t("eNamePh"))+'" value="'+esc(mem.name||"")+'" autocomplete="name"></fieldset>';
     h+='<fieldset><legend><label for="f-contact">'+esc(t("eContact"))+'</label></legend><input type="text" id="f-contact" data-f="contact" placeholder="'+esc(t("eContactPh"))+'" value="'+esc(mem.contact||"")+'" autocomplete="off"></fieldset>';
     var dis=mem.consent?'':' disabled';
@@ -249,7 +294,7 @@ function renderExport(){
     if(ENDPOINT) h+='<button class="btn primary" id="b-send" data-act="senddirect"'+dis+' style="width:100%;min-height:54px;font-size:1.05rem">'+esc(t("eSend"))+'</button>'+(mem.lastSent?'<p class="hint">'+esc(t("eLast"))+' '+esc(fmtFull(mem.lastSent))+'</p>':'');
     h+='<div class="row"><button class="btn'+(ENDPOINT?'':' primary')+'" data-act="sendmail"'+dis+'>'+esc(ENDPOINT?t("eMine"):t("eMail"))+'</button>';
     if(navigator.share) h+='<button class="btn" data-act="share"'+dis+'>'+esc(t("eShare"))+'</button>';
-    h+='<button class="btn" data-act="copytxt">'+esc(t("eCopy"))+'</button><button class="btn" data-act="dl">'+esc(t("eDl"))+'</button></div>';
+    h+='<button class="btn" data-act="dlimg">'+esc(t("eDlImg"))+'</button><button class="btn" data-act="copytxt">'+esc(t("eCopy"))+'</button><button class="btn" data-act="dl">'+esc(t("eDl"))+'</button></div>';
     h+='<p class="hint">'+(ENDPOINT?'':esc(t("eAddr"))+' <b>'+esc(DOCTOR_EMAIL)+'</b><br>')+esc(t("eConsent"))+'</p>';
     h+='<fieldset><legend><label for="f-prev">'+esc(t("ePrev"))+'</label></legend><textarea id="f-prev" class="preview" readonly>'+esc(txt)+'</textarea></fieldset>';
   }
@@ -258,6 +303,7 @@ function renderExport(){
   else if(has){ h+='<button class="btn small danger" data-act="wipe">'+esc(t("wipe"))+'</button>'; }
   h+='</div></div></div>';
   document.getElementById("layer").innerHTML=h; sheet="export"; document.body.style.overflow="hidden";
+  if(has) buildImage().then(function(u){ var im=document.getElementById("img-prev"); if(im) im.src=u; }).catch(function(){});
 }
 
 function privSections(){
@@ -347,7 +393,9 @@ document.addEventListener("click",function(ev){
   else if(a==="senddirect"){
     var bt=b, txt0=buildText(), subj0=t("rec")+(mem.name&&mem.name.trim()?" — "+mem.name.trim():"");
     bt.disabled=true; bt.textContent=t("eSending");
-    fetch(ENDPOINT,{method:"POST",redirect:"follow",credentials:"omit",referrerPolicy:"no-referrer",cache:"no-store",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify({subject:subj0,text:txt0,count:mem.events.length,hp:"",k:K})})
+    buildImage().then(function(u){ return u.split(",")[1]; }, function(){ return ""; }).then(function(png){
+      return fetch(ENDPOINT,{method:"POST",redirect:"follow",credentials:"omit",referrerPolicy:"no-referrer",cache:"no-store",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify({subject:subj0,text:txt0,count:mem.events.length,img:png,hp:"",k:K})});
+    })
       .then(function(r){ if(!r.ok) throw new Error("http"); return r.json(); })
       .then(function(j){ if(!j||!j.ok) throw new Error("srv"); mem.lastSent=nowLocal(); save(); renderExport(); toast(t("eSent")); })
       .catch(function(){ bt.disabled=false; bt.textContent=t("eSend"); toast(t("eFail")); setTimeout(function(){ var bd=encodeURIComponent(txt0).length>1800?t("eSub")+" ("+mem.events.length+")\n\n":txt0; if(bd!==txt0) copy(txt0); window.location.href="mailto:"+DOCTOR_EMAIL+"?subject="+encodeURIComponent(subj0)+"&body="+encodeURIComponent(bd); },1500); });
@@ -364,6 +412,7 @@ document.addEventListener("click",function(ev){
     var bl=new Blob([buildText()],{type:"text/plain;charset=utf-8"}), u=URL.createObjectURL(bl), an=document.createElement("a");
     an.href=u; an.download="linea-de-vida-"+nowLocal().slice(0,10)+".txt"; document.body.appendChild(an); an.click(); an.remove(); setTimeout(function(){URL.revokeObjectURL(u);},1000);
   }
+  else if(a==="dlimg"){ buildImage().then(function(u){ var an=document.createElement("a"); an.href=u; an.download="linea-de-vida-"+nowLocal().slice(0,10)+".png"; document.body.appendChild(an); an.click(); an.remove(); }); }
   else if(a==="wipe"){ wipeAsk=true; renderExport(); }
   else if(a==="wipeno"){ wipeAsk=false; renderExport(); }
   else if(a==="wipeyes"){ mem.events=[]; mem.name=""; mem.contact=""; mem.curAge=null; mem.consent=null; mem.lastSent=null; save(); wipeAsk=false; closeSheet(); render(); toast(t("wiped")); }
